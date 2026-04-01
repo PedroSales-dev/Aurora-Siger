@@ -38,7 +38,10 @@ Cada seção do notebook cobre uma camada distinta do problema:
 aurora-siger/
 ├── aurora_siger.ipynb   # Notebook principal com todo o código e análises
 ├── aurora_siger.py      # Script Python com todos os módulos do projeto
-└── README.md            # Este arquivo
+├── README.md            # Este arquivo
+└── img_run/             # Pasta com as prints de execução
+    ├── img_run_1.png
+    └── img_run_2.png
 ```
 
 ---
